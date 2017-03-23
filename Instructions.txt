@@ -1,0 +1,6 @@
+How to use:
+1)Copy the adminSearch folder to your desktop
+2)run start.bat
+3)results are stored under results.txt
+
+If there is no adminSearch folder, create one on your desktop and move start.bat into that folder.
